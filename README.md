@@ -19,18 +19,15 @@ This **Secret Buddy** project is designed for buddies to secretly communicate wi
 ## 👨‍💻 Developed By
 
 Dileepa Bandara  
-©dileepabandara.dev  
-https://dileepabandara.github.io
+©dileepa.dev  
+<https://dileepa.dev>
 
 ## 💬 Contact
 
-If you want to contact me, leave a message via email or Twitter
-
-- Email - <contact.dileepabandara@gmail.com>
-- Twitter - [_dileepabandara](https://twitter.com/_dileepabandara)
+If you want to contact me, leave a message via email at <contact@dileepa.dev>
 
 ## 📜 License
 
 This project is licensed under the MIT License  
-MIT ©dileepabandara.dev  
-See the license file for more details [LICENSE.md](https://github.com/dileepabandara/secret_buddy/blob/main/LICENSE)
+MIT ©dileepa.dev  
+See the license file for more details [LICENSE.md](https://github.com/dileepadev/secret_buddy/blob/main/LICENSE)
